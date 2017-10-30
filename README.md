@@ -1,4 +1,4 @@
-# cybersec_workshop_1
+# Content for cybersec_workshops
 Stuff realted to CyberSec!!!
 
 Important Links:
